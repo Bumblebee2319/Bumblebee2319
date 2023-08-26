@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Bumblebee2319
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 𝕮𝖄𝕭𝕰𝕽𝖂𝕬𝕽𝕷𝕺𝕮𝕶𝕾𝕳𝕬𝕮𝕶𝕰𝕽𝕾101𝖀𝕻𝕯𝕬𝕿𝕰𝕾
 
-<!---
-Bumblebee2319/Bumblebee2319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Features
+
+~~~
+/ Orion
+/ Ai
+/ Chad
+/ Nraf
+/ Img
+/ Help
+/ Stop
+/ Refresh
+~~~
+
+## Note
+If you are cloning this to copy Project Orion you are in wrong repository, this is just a demo of how to integrate openai & fca-unofficial client to facebook.
+
+Project Orion uses different facebook client and completely different from this.
